@@ -1,0 +1,1 @@
+ix1y1=((ixx-iyy)/2)*math.sin(2*te)+ixx*(math.cos(te)**2-math.sin(te)**2)
